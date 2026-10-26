@@ -21,7 +21,7 @@ Azure, and REST integrations secured with OAuth 2.0.
 
 - [About](https://wencetongol.vercel.app/#about): Who he is, what the work is, and a link to the résumé.
 - [Experience](https://wencetongol.vercel.app/#experience): Professional roles and what was built in each.
-- [Projects](https://wencetongol.vercel.app/#projects): Six selected projects, with the stack and the problem each solved.
+- [Projects](https://wencetongol.vercel.app/#projects): Seven selected projects, with the stack and the problem each solved.
 - [Stack](https://wencetongol.vercel.app/#skills): Technologies grouped by category — languages, frameworks, databases, platforms and APIs, tooling.
 - [Background](https://wencetongol.vercel.app/#education): Education and certifications.
 - [Contact](https://wencetongol.vercel.app/#contact): Email and profiles.
@@ -33,16 +33,17 @@ Azure, and REST integrations secured with OAuth 2.0.
 - Financial Planning Report Automation (2026): CRM-driven document generation in Zoho.
 - Investment Proposal Automation (2026): Portfolio proposals generated from CRM holdings data.
 - [TechSelect](https://techselect.vercel.app) (2026): Job board for software, web and automation work, with semantic matching on pgvector. [Source](https://github.com/codew3y/niche-job-board).
-- [BarberHouse](https://github.com/codew3y/barber-shop-system) (2026): Barbershop booking website.
+- [BarberHouse](https://barberhouseph.vercel.app) (2026): Barbershop booking website with live per-barber availability and QR downpayments, built in Next.js and TypeScript. [Source](https://github.com/codew3y/barber-shop-system).
 - VistaVR: Virtual reality eye testing application.
 
 ## Technical stack
 
-JavaScript, TypeScript, Node.js, Python, Zoho Deluge, React, Next.js,
-Tailwind CSS, PostgreSQL, MySQL, Supabase, Neon, Microsoft Azure,
-OAuth 2.0, Microsoft Entra ID, Zoho, Microsoft Graph, Microsoft Purview
-eDiscovery, Model Context Protocol, REST APIs, Webhooks, Vercel, Docker, Git,
-GitHub, Postman, PowerShell, Vitest, Claude, Codex.
+JavaScript, TypeScript, Node.js, Python, Zoho Deluge, HTML, CSS, SQL, React,
+Next.js, Tailwind CSS, Microsoft Azure, Microsoft Entra ID, OAuth 2.0,
+JSON Web Tokens (JWT), Zoho, Microsoft Graph, Microsoft Purview eDiscovery,
+Model Context Protocol, REST APIs, Webhooks, Vercel, MySQL, PostgreSQL,
+Supabase, Neon, Postman, PowerShell, Docker, Git, GitHub, Vitest, Claude,
+Codex.
 
 ## Background
 
