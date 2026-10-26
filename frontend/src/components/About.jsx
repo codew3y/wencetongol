@@ -21,7 +21,7 @@ const meta = [
   { key: "current role", value: "CRM Developer Associate" },
   { key: "company", value: "Manentia Enterprise Support PH Inc." },
   { key: "focus", value: "Full-stack development & automation" },
-  { key: "stack", value: "Deluge · Node.js · Azure" },
+  { key: "stack", value: "TypeScript · Node.js · Next.js" },
   { key: "school", value: "Pampanga State University" },
   { key: "location", value: "Pampanga, Philippines" },
   { key: "languages", value: "Filipino (native), English (professional)" },
